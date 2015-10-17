@@ -8,6 +8,7 @@
 **Requirements**
 
 + Use an array to hold your facts
++ Use a loop to cycle through the array to display one fact at a time
 
 **Stretch**
 
