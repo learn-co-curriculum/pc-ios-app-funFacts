@@ -6,9 +6,11 @@
 
 
 **Requirements**
-+Use an array to hold your facts
+
++ Use an array to hold your facts
 
 **Stretch**
-+See if you can randomly select and element from the array.  
+
++ See if you can randomly select and element from the array.  
 
 
