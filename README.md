@@ -1,5 +1,7 @@
 # Group Project: Fun facts
 
+![wow](http://www.pinstopin.com/moving-monkey/)
+
 Objective:  Create an app that displays a new fact to a user when they click a button.
 
 Requirements
