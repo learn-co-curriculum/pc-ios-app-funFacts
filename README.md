@@ -12,6 +12,6 @@
 
 **Stretch**
 
-+ See if you can randomly select and element from the array.  
++ Instead of using a loop, try to randomly select and element from the array.  
 
 
