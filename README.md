@@ -17,7 +17,7 @@
 
 ##Dictionaries Version##
 
-**Objective: Create an app that displays a new fact to a user when they select a fact category and click a button**
+**Objective:** Create an app that displays a new fact to a user when they select a fact category and click a button.
 
 **Requirements**
 
