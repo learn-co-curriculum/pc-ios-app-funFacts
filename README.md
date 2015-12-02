@@ -30,3 +30,5 @@
 + Randomly select a fact from that array.
 + Utilize a UIPicker instead of a textfield to take the user category selection.
 
+
+<a href='https://learn.co/lessons/pc-ios-app-funFacts' data-visibility='hidden'>View this lesson on Learn.co</a>
