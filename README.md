@@ -31,4 +31,4 @@
 + Utilize a UIPicker instead of a textfield to take the user category selection.
 
 
-<a href='https://learn.co/lessons/pc-ios-app-funFacts' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-app-funFacts' title='Group Project: Fun facts'>Group Project: Fun facts</a> on Learn.co and start learning to code for free.</p>
